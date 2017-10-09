@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns     = "http://www.w3.org/ns/widgets"
-        xmlns:gap = "http://phonegap.com/ns/1.0"
-        xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "391"
-        version   = "1.15">
-    <name>Moodle Mobile</name>
-
-    <description>
-        Moodle Mobile official app
-    </description>
-
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+<widget id="com.aleccarval.mm" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>MM</name>
+    <description> Teste App MM </description>
+    <author href="http://mm.net" email="aleccarval@gmail.com">
+        Aleccarval
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
